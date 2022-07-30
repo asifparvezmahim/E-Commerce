@@ -1,0 +1,12 @@
+.banner {
+    display: flex;
+    border: 1px solid wheat;
+    background-color: wheat;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 220px;
+}
+
+.banner h1 span {
+    color: blueviolet;
+}
